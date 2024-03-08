@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  #number-container {
+    background-color: #ddd;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  #random-number {
+    font-size: 48px;
+  }
+  
